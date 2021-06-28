@@ -5,10 +5,24 @@ body
 	font-family: "Arial" ; 
 	font-size: 16px;
 	margin: 0;
-	padding 0;
+	padding: 0;
+}
+#Cabecera
+{
+	background: content-box #4800ff;
+	box-shadow: 0px 2px 20px 0px rgb(0, 0, 0);
+	color: white;
+	font-weight: bold;
+	margin: 0;
+	padding: 0.5em;
+}
+#Cabecera #tagline
+{
+	padding: 0 0 0 1em;
+	font-weight: normal;
+	font-size: 0.8em;
 }
 #container
-{
 	width: 70%;
 	padding: 1em;
 	text-align align: left;
