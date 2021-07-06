@@ -16,6 +16,11 @@ body
 	margin: 0;
 	padding: 0.5em;
 }
+#Cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
 #Cabecera #tagline
 {
 	padding: 0 0 0 1em;
@@ -32,4 +37,9 @@ body
 #container h1
 {
 	font-size: 20px;
+}
+#post
+{
+    background: #ffffff;
+    padding: 1em;
 }
