@@ -10,4 +10,5 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Sia
 *Creado por la increible super heroina Karina
 *Incluye ejemplos en Mac, Windows y Linux.
+*Disponible para todas las edades.
 Este **readme.md es un chiste**.
