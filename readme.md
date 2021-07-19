@@ -8,5 +8,5 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Coldplay
 * Paramore
 * Sia
-* etc
+*Creado por la increible super heroina Karina
 Este **readme.md es un chiste**.
